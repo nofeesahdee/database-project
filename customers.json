@@ -1,0 +1,84 @@
+[{
+    "id": 1,
+    "name": "John Doe",
+    "Role": "Admin1",
+    "Phone": "22-333-4444",
+    "email": "johndoe@gmail.com"
+},
+{
+    "id": 2,
+    "name": "Taye Taye",
+    "Role": "Admin2",
+    "Phone": "22-333-4444",
+    "email": "taytaye@gmail.com"
+},
+{
+    "id": 3,
+    "name": "Samuel Dan",
+    "Role": "Admin3",
+    "Phone": "22-333-4444",
+    "email": "samueldan@gmail.com"
+},
+{
+    "id": 4,
+    "name": "John Doe",
+    "Role": "Admin1",
+    "Phone": "22-333-4444",
+    "email": "johndoe@gmail.com"
+},
+{
+    "id": 5,
+    "name": "Taye Taye",
+    "Role": "Admin2",
+    "Phone": "22-333-4444",
+    "email": "taytaye@gmail.com"
+},
+{
+    "id": 6,
+    "name": "Samuel Dan",
+    "Role": "Admin3",
+    "Phone": "22-333-4444",
+    "email": "samueldan@gmail.com"
+},
+{
+    "id": 7,
+    "name": "John Doe",
+    "Role": "Admin1",
+    "Phone": "22-333-4444",
+    "email": "johndoe@gmail.com"
+},
+{
+    "id": 8,
+    "name": "Taye Taye",
+    "Role": "Admin2",
+    "Phone": "22-333-4444",
+    "email": "taytaye@gmail.com"
+},
+{
+    "id": 9,
+    "name": "Samuel Dan",
+    "Role": "Admin3",
+    "Phone": "22-333-4444",
+    "email": "samueldan@gmail.com"
+},
+{
+    "id": 10,
+    "name": "John Doe",
+    "Role": "Admin1",
+    "Phone": "22-333-4444",
+    "email": "johndoe@gmail.com"
+},
+{
+    "id": 11,
+    "name": "Taye Taye",
+    "Role": "Admin2",
+    "Phone": "22-333-4444",
+    "email": "taytaye@gmail.com"
+},
+{
+    "id": 12,
+    "name": "Samuel Dan",
+    "Role": "Admin3",
+    "Phone": "22-333-4444",
+    "email": "samueldan@gmail.com"
+}]
